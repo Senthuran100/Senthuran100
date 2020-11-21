@@ -1,6 +1,7 @@
-![alt text](<https://github.com/Senthuran100/Senthuran100/blob/main/cooltext369230231446776.png>) ![Alt Text](https://media2.giphy.com/media/21LLWn3VqXxxBbzrBm/giphy.gif)
+![alt text](<https://github.com/Senthuran100/Senthuran100/blob/main/cooltext369230231446776.png>) - 😃 I'm a Software Developer mainly working on Java and React technologies
 
-I'm a Software Developer mainly working on Java and React technologies
+![Alt Text](https://media2.giphy.com/media/21LLWn3VqXxxBbzrBm/giphy.gif)
+
 <!--
 **Senthuran100/Senthuran100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
