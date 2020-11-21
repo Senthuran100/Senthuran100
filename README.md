@@ -1,5 +1,6 @@
-### Hi there 👋
-<a href="http://freegifmaker.me/"><img src="http://i.freegifmaker.me/1/6/0/5/9/8/16059818222942895.gif?1605981823" alt="gifs website"/></a><br/><a href="http://www.freegifmaker.me/">FreeGifMaker.me<a/>
+![alt text](<https://github.com/Senthuran100/Senthuran100/blob/main/cooltext369230231446776.png>)
+
+I'm a Software Developer mainly working on Java and React technologies
 <!--
 **Senthuran100/Senthuran100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
