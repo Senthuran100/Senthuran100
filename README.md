@@ -1,4 +1,4 @@
-![alt text](<https://github.com/Senthuran100/Senthuran100/blob/main/cooltext369230231446776.png>)
+![alt text](<https://github.com/Senthuran100/Senthuran100/blob/main/cooltext369230231446776.png>) ![Alt Text](https://media2.giphy.com/media/21LLWn3VqXxxBbzrBm/giphy.gif)
 
 I'm a Software Developer mainly working on Java and React technologies
 <!--
